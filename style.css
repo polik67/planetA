@@ -5,15 +5,15 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	font-size: 24px;
+	font-size: 4vw;
 	height: 100vh;
 }
 
 
 img {
-	max-width: 25%;
+	
 	height: auto;
-	margin-top: 100px;
+	
 }
 
 
@@ -21,8 +21,10 @@ p {
 	font-family: Courier New;
 	margin: 40px;
 	color: #A4C2FF;
-	font-size: 40px;
-}
+	}
 
+* {
+  box-sizing: border-box;
+}
 
 
