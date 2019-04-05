@@ -1,0 +1,28 @@
+
+body {
+	background: rgb(0,0,0);
+	background: linear-gradient(180deg, rgba(0,0,0,1) 26%, rgba(0,5,43,1) 100%);
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 24px;
+	height: 100vh;
+}
+
+
+img {
+	max-width: 25%;
+	height: auto;
+	margin-top: 100px;
+}
+
+
+p {
+	font-family: Courier New;
+	margin: 40px;
+	color: #A4C2FF;
+	font-size: 40px;
+}
+
+
+
